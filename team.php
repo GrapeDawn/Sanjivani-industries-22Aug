@@ -106,7 +106,7 @@
                         
                     </div>
                 </div>
-
+                
                 <div id="john" class="row mb-5 appear-animation" data-appear-animation="fadeInUpShorter"
                     data-appear-animation-delay="750">
                     <div class="col">
@@ -129,12 +129,12 @@
                                         class="social-icons social-icons-clean social-icons-icon-dark social-icons-big m-0 ms-lg-2">
                                         <li class="social-icons-instagram">
                                             <a href="#" target="_blank" class="text-4" title="Instagram"
-                                                data-cursor-effect-hover="fit"><i class="fab fa-instagram"> <i></a>
+                                                data-cursor-effect-hover="fit"><i class="fab fa-instagram"></i></a>
                                         </li>
 
                                         <li class="social-icons-facebook">
                                             <a href="#" target="_blank" class="text-4" title="Facebook"
-                                                data-cursor-effect-hover="fit"><i class="fab fa-facebook-f"> <i></a>
+                                                data-cursor-effect-hover="fit"><i class="fab fa-facebook-f"></i></a>
                                         </li>
                                     </ul>
                                 </div>
