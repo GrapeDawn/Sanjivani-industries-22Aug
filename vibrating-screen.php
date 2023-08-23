@@ -89,7 +89,7 @@
                 </div>
             </section>
 
-            <div class="container pt-3 mt-4">
+            <div class="container pt-3 mt-4 ">
                 <div class="row mb-5">
                     <div class="col-lg-12">
 

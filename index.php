@@ -251,15 +251,11 @@
                 <img src="img/backgrounds/hero-bg-3.jpg" style="width:100%;">
                 <img src="img/backgrounds/hero-bg-4.jpg" style="width:100%;">
 
-
             </div>
             <br>
 
-
-
             <div class="container">
                 <div class="fbox">
-
 
                     <!-- 40% of the screen -->
                     <div class="col-md-3 col-xl-3 my-auto">
@@ -350,7 +346,7 @@
                                     </div>
                                 </a>
                             </div>
-                            
+
                         </div>
                     </div>
                 </div>
@@ -521,7 +517,6 @@
         </div>
     </section>
 
-
     <!--Benefits-->
     <section class="section section-height-4 section-with-shape-divider position-relative bg-dark border-0 m-0">
         <div class="shape-divider shape-divider-reverse-x z-index-3" style="height: 102px;">
@@ -545,7 +540,7 @@
                         data-appear-animation="fadeInUpShorter" data-appear-animation-delay="500">Empowering Industries
                         Through Innovation</h3>
                     <p class="text-3-5 pb-2 mb-4 appear-animation" data-appear-animation="fadeInUpShorter"
-                        data-appear-animation-delay="750" style="color: #fff;"><b>Sanjivani Wirenetting Industries</b>is
+                        data-appear-animation-delay="750" style="color: #fff;"><b>Sanjivani Wirenetting Industry</b> is
                         a dynamic force in the manufacturing and supply of exceptional wire solutions.</p>
                     <ul class="list ps-0 pe-lg-5 mb-0">
                         <li class="d-flex align-items-start pb-1 mb-3 appear-animation"
@@ -713,19 +708,18 @@
                                     data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
                                     style="width: 40px;" />
                                 <blockquote>
-                                    <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, optio
-                                        cumque dolorem veniam inventore totam molestiae amet quis facere eum?</p>
+                                    <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">Sanjivani Wirenetting Industries has been an invaluable partner for our construction projects. Their top-notch wire mesh and fencing solutions have not only enhanced the safety of our sites but also contributed to the aesthetics of our projects. Their commitment to quality and customer service is truly commendable.</p>
                                 </blockquote>
                                 <div class="testimonial-author">
                                     <p>
-                                        <strong class="font-weight-bold text-5-5 negative-ls-1">- John doe</strong>
+                                        <strong class="font-weight-bold text-5-5 negative-ls-1">- Business Owner</strong>
                                         <!--<p class="text-color-dark mb-0">Porto Founder</p>-->
                                     </p>
                                 </div>
                             </div>
                         </div>
 
+                        
                         <div class="py-5 px-lg-5">
                             <div class="testimonial testimonial-style-2 px-4 mx-xl-5 my-3">
                                 <img width="40" height="40" src="img/icons/left-quote.svg" alt="Sanjivani industry"
@@ -733,19 +727,18 @@
                                     data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
                                     style="width: 40px;" />
                                 <blockquote>
-                                    <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, optio
-                                        cumque dolorem veniam inventore totam molestiae amet quis facere eum?</p>
+                                    <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">In the competitive world of wirenetting, Sanjivani Wirenetting Industries stands out as a leader. Their range of products, attention to technical specifications, and commitment to innovation set them apart. It's no surprise that they're a preferred choice among professionals</p>
                                 </blockquote>
                                 <div class="testimonial-author">
                                     <p>
-                                        <strong class="font-weight-bold text-5-5 negative-ls-1">- John doe</strong>
+                                        <strong class="font-weight-bold text-5-5 negative-ls-1">- Industry Expert</strong>
                                         <!--<p class="text-color-dark mb-0">Porto Founder</p>-->
                                     </p>
                                 </div>
                             </div>
                         </div>
 
+                        
                         <div class="py-5 px-lg-5">
                             <div class="testimonial testimonial-style-2 px-4 mx-xl-5 my-3">
                                 <img width="40" height="40" src="img/icons/left-quote.svg" alt="Sanjivani industry"
@@ -753,63 +746,16 @@
                                     data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
                                     style="width: 40px;" />
                                 <blockquote>
-                                    <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, optio
-                                        cumque dolorem veniam inventore totam molestiae amet quis facere eum?</p>
+                                    <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">Sanjivani Wirenetting Industries is a reliable partner that consistently delivers high-quality wire mesh and related products. Their attention to detail, customer-centric approach, and commitment to excellence make them a trusted choice for all our wirenetting needs.</p>
                                 </blockquote>
                                 <div class="testimonial-author">
                                     <p>
-                                        <strong class="font-weight-bold text-5-5 negative-ls-1">- John doe</strong>
+                                        <strong class="font-weight-bold text-5-5 negative-ls-1">- Business Owner</strong>
                                         <!--<p class="text-color-dark mb-0">Porto Founder</p>-->
                                     </p>
                                 </div>
                             </div>
                         </div>
-
-                        <div class="py-5 px-lg-5">
-                            <div class="testimonial testimonial-style-2 px-4 mx-xl-5 my-3">
-                                <img width="40" height="40" src="img/icons/left-quote.svg" alt="Sanjivani industry"
-                                    data-icon
-                                    data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                    style="width: 40px;" />
-                                <blockquote>
-                                    <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, optio
-                                        cumque dolorem veniam inventore totam molestiae amet quis facere eum?</p>
-                                </blockquote>
-                                <div class="testimonial-author">
-                                    <p>
-                                        <strong class="font-weight-bold text-5-5 negative-ls-1">- John doe</strong>
-                                        <!--<p class="text-color-dark mb-0">Porto Founder</p>-->
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="py-5 px-lg-5">
-                            <div class="testimonial testimonial-style-2 px-4 mx-xl-5 my-3">
-                                <img width="40" height="40" src="img/icons/left-quote.svg" alt="Sanjivani industry"
-                                    data-icon
-                                    data-plugin-options="{'onlySVG': true, 'extraClass': 'svg-fill-color-primary'}"
-                                    style="width: 40px;" />
-                                <blockquote>
-                                    <p class="text-color-dark text-4 line-height-8 alternative-font-4 mb-0">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, optio
-                                        cumque dolorem veniam inventore totam molestiae amet quis facere eum?</p>
-                                </blockquote>
-                                <div class="testimonial-author">
-                                    <p>
-                                        <strong class="font-weight-bold text-5-5 negative-ls-1">- John doe</strong>
-                                        <!--<p class="text-color-dark mb-0">Porto Founder</p>-->
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-
-
-
-
-
 
                     </div>
                 </div>

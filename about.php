@@ -142,10 +142,10 @@
 						<div class="tabs tabs-bottom tabs-center tabs-simple custom-tabs-style-1">
 							<ul class="nav nav-tabs">
 								<li class="nav-item">
-									<a class="nav-link active" href="#tabsNavigationVision" data-bs-toggle="tab">Empowering Industries with Unmatched Wire Solutions</a>
+									<a class="nav-link active" href="#tabsNavigationVision" data-bs-toggle="tab">Our Vision </a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link " href="#tabsNavigationManifesto" data-bs-toggle="tab">Crafting Excellence in Every Wire</a>
+									<a class="nav-link " href="#tabsNavigationManifesto" data-bs-toggle="tab">Our Mission</a>
 								</li>
 
 
@@ -153,7 +153,7 @@
 							<div class="tab-content">
 								<div class="tab-pane " id="tabsNavigationManifesto">
 									<div class="text-center">
-										<p class="text-3-5">Our mission at Sanjivani Wirenetting Industries is to engineer wire solutions that exemplify precision, durability, and versatility. We are dedicated to delivering products that contribute to the success of our clients' projects, regardless of their complexity. With a personalized approach and a commitment to understanding our clients' unique needs, we aim to provide wire solutions that elevate their operations and empower their endeavors.
+										<p class="text-3-5"> <b>Crafting Excellence in Every Wire </b><br> Our mission at Sanjivani Wirenetting Industries is to engineer wire solutions that exemplify precision, durability, and versatility. We are dedicated to delivering products that contribute to the success of our clients' projects, regardless of their complexity. With a personalized approach and a commitment to understanding our clients' unique needs, we aim to provide wire solutions that elevate their operations and empower their endeavors.
 
 										</p>
 										<p class="text-3">At Sanjivani Wirenetting Industries, our mission is to drive innovation and excellence in the wire solutions landscape. We are committed to crafting wire mesh, Vibrating Screen Cloth, Crimped Wire Mesh, Perforated Sheets, and more that redefine industry standards. With a focus on exceptional quality and personalized service, we aim to be the preferred partner for businesses seeking reliable and resilient wire solutions.</p>
@@ -161,7 +161,7 @@
 								</div>
 								<div class="tab-pane active" id="tabsNavigationVision">
 									<div class="text-center">
-										<p class="text-3-5">We envision a world where wire solutions transcend expectations, driving progress across diverse sectors. Our vision is to be at the forefront of innovation, producing wire mesh, Vibrating Screen Cloth, Crimped Wire Mesh, Perforated Sheets, Chainlink Fences, and Mosquito Mesh that not only meet industry standards but set new benchmarks for quality and reliability.</p>
+										<p class="text-3-5"> <b> Empowering Industries with Unmatched Wire Solutions </b><br> We envision a world where wire solutions transcend expectations, driving progress across diverse sectors. Our vision is to be at the forefront of innovation, producing wire mesh, Vibrating Screen Cloth, Crimped Wire Mesh, Perforated Sheets, Chainlink Fences, and Mosquito Mesh that not only meet industry standards but set new benchmarks for quality and reliability.</p>
 									</div>
 								</div>
 

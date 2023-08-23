@@ -54,7 +54,7 @@
     <div class="watext">
         WhatsApp Us Now
     </div>
-    <a href="https://api.whatsapp.com/send?phone=919561649494" target="_blank" class="waicon">
+    <a href="https://api.whatsapp.com/send?phone=9552551567" target="_blank" class="waicon">
         <i class="bx bxl-whatsapp"></i>
     </a>
 </div>
